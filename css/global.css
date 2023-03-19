@@ -1,0 +1,84 @@
+/* Text */
+
+.textCenter{
+    text-align:center;
+}
+
+.headingSmall{
+    font-size: 1rem;
+}
+
+.hedingMedium{
+    font-size: 1.75rem;
+}
+
+.headingBig{
+    font-size: 1.85rem;
+}
+
+
+/*color*/
+
+.bgDark{
+    background-color:#55337c;
+}
+
+.bgLight{
+    background-color:#9d62bc ;
+}
+
+/*conteiner*/
+
+.conteinerNav{
+    max-width: 1100px;
+    margin: 0 auto; 
+}
+
+/* buttons*/
+
+.button{
+    margin-top: 1.25rem;
+    padding: 0.8rem 3rem;
+    border-radius: 15px;
+}
+
+.buttonPrimary{
+    background-color:#9d62bc;
+    
+}
+
+.buttonPrimary:hover{
+    color: rgb(59, 81, 109);
+    background-color: rgb(204, 199, 225);
+    border: 0.7px solid rgb(59, 81, 109);
+}
+.buttondark{
+    background-color: rgb(64, 48, 126);
+}
+
+.buttondark:hover{
+    color: rgb(59, 81, 109);
+    background-color: rgb(64, 48, 126);
+    border: 0.7px solid rgb(59, 81, 109);
+}
+
+.formgroup{
+    padding:0.25rem;
+
+}
+
+.formgroup label{
+    display: block;
+}
+
+.formcontrol{
+    width: 100%;
+    padding: 0.4rem;
+    font-size:1rem;
+    resize: none;
+}
+
+.conteiner{
+    max-width: 1100px;
+    margin: 0 auto;
+}
